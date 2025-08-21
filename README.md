@@ -23,9 +23,10 @@
 
 
 <!-- Optional: compact icons row (matches your screenshot style) -->
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,java,js,ts,vscode,html,react,bootstrap,fastapi,graphql,flask,mysql,nodejs,mongodb,express,heroku,postgres,figma,gcp,azure,ubuntu,pytorch,django,hf,docker&perline=12" />
-</p>
+![My Skills](https://skillicons.dev/icons?i=python,c,cpp,git,java,js,ts,vscode,html,react,bootstrap,fastapi,graphql,flask,mysql,nodejs,mongodb,express,heroku,postgres,figma,gcp,azure,ubuntu,pytorch,django,docker&perline=12)
+
+![Hugging Face](https://huggingface.co/favicon.ico)
+
 
 
 ---
