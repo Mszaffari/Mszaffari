@@ -23,7 +23,7 @@
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,java,js,ts,vscode,html,react,bootstrap,fastapi,graphql,flask,mysql,nodejs,mongodb,express,heroku,postgres,figma,gcp,azure,ubuntu,pytorch,django,docker,Hf&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,java,js,ts,vscode,html,react,bootstrap,fastapi,graphql,flask,mysql,nodejs,mongodb,express,heroku,postgres,figma,gcp,azure,ubuntu,pytorch,django,docker,HF&perline=12" />
 
 </p>
 
