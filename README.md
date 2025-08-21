@@ -1,10 +1,22 @@
 
 <div align="center">
 
-<!-- Typing subtitle -->
-<a href="https://github.com/Mszaffari">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer;Footballer+(Shh%2C+don't+tell+%F0%9F%98%8A);Space+Data+Enthusiast;Building+cool+things+with+Python+%26+PyTorch" alt="Typing SVG" />
-</a>
+<!-- Typing subtitle with card and letter border -->
+<div style="
+    background-color: #1e1e1e; /* dark background card */
+    padding: 20px 40px;
+    border-radius: 20px;
+    display: inline-block;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+">
+  <a href="https://github.com/Mszaffari">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer;Footballer+(Shh%2C+don't+tell+%F0%9F%98%8A);Space+Data+Enthusiast;Building+cool+things+with+Python+%26+PyTorch" alt="Typing SVG" 
+    style="
+      filter: drop-shadow(0 0 2px yellow);
+      -webkit-text-stroke: 1px yellow;
+    "/>
+  </a>
+</div>
 
 
 ---
