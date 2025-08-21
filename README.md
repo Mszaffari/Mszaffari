@@ -5,6 +5,8 @@
 <a href="https://github.com/Mszaffari">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer;Footballer+(Shh%2C+don't+tell+%F0%9F%98%8A);Space+Data+Enthusiast;Building+cool+things+with+Python+%26+PyTorch" alt="Typing SVG" />
 </a>
+
+
 ### About Me
 
 🌍 Based in **India** • ✉️ Reach me: **mszaffari17.01@gmail.com**  
