@@ -1,33 +1,32 @@
-<!-- HEADER -->
-<h1 align="center"> 
-  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px" />, 
-  I'm <b>Meraj Saleheen Zaffari</b>  
+<!-- Typing animation -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Meraj+Saleheen+Zaffari;AI+%26+ML+Developer+🚀;Footballer+⚽;Space+Explorer+🌌" alt="Typing SVG" />
+  </a>
 </h1>
 
-<h3 align="center">🚀 AI & ML Developer | ⚽ Footballer | 🌌 Space Explorer</h3>
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120px" title="Exploring the Universe with AI"/> 
-  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="120px" title="Football mode activated ⚽"/> 
-  <img src="https://media.giphy.com/media/2wh22HYtB7yQ7u2sKb/giphy.gif" width="120px" title="Spaceship ready for launch 🚀"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/rocket.gif" width="120px" title="Exploring AI Universe 🚀"/> 
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/football.gif" width="120px" title="Football Mode ⚽"/> 
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/astronaut.gif" width="120px" title="Exploring the Cosmos 🌌"/>
 </p>
 
 ---
 
-<!-- ABOUT ME -->
-<p align="center">
-  🌍 Based in <b>India</b> <br/>
-  ✉️ Reach me at <a href="mailto:mszaffari17.01@gmail.com">mszaffari17.01@gmail.com</a> <br/>
-  🚀 Working on <a href="https://huggingface.co/spaces/Meraj21/stellar-pulsar-classifier" target="_blank">Stellar & Pulsar Detector</a> <br/>
-  🧠 Currently learning <b>Advanced Machine Learning</b> <br/>
-  👥 Looking to collaborate on <b>Data Science for Interstellar Space</b> <br/>
-  ⚽ Fun fact: I'm secretly a footballer 🤫
-</p>
+### 🌍 About Me  
+
+- 📍 Based in **India**  
+- 📧 Reach me at: **[mszaffari17.01@gmail.com](mailto:mszaffari17.01@gmail.com)**  
+- 🚀 Working on: [**Stellar & Pulsar Detector**](https://huggingface.co/spaces/Meraj21/stellar-pulsar-classifier)  
+- 🧠 Learning: **Advanced Machine Learning & Space Data Science**  
+- 🤝 Open to collaborate on **AI & Interstellar Space Projects**  
+- ⚽ Fun fact: I’m secretly a **footballer** (don’t tell anyone 😅)  
 
 ---
 
-<!-- SKILLS -->
-<h2 align="center">🛠️ Tech Stack</h2>
+### 🛠️ Tech Stack  
 
 <p align="center">
   <a href="https://www.python.org/" title="Python">
@@ -45,53 +44,47 @@
   <a href="https://www.djangoproject.com/" title="Django">
     <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00FF00" />
   </a>
-</p>
-
----
-
-<!-- SOCIALS -->
-<h2 align="center">🌐 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://github.com/Mszaffari" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
   </a>
-  <a href="https://x.com/Mszaffari0107" title="Twitter / X">
-    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=00FFFF" />
+  <a href="https://cloud.google.com/" title="Google Cloud">
+    <img src="https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
   </a>
-  <a href="https://www.linkedin.com/in/meraj-saleheen-zaffari-4a6195258" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00AFFF" />
-  </a>
-  <a href="https://www.threads.net/@mr.zaffari_jr.11" title="Threads">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+  <a href="https://azure.microsoft.com/" title="Azure">
+    <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=008AD7" />
   </a>
 </p>
 
 ---
 
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Analytics</h2>
+### 🌐 Connect with Me  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mszaffari&show_icons=true&count_private=true&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=000000&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mszaffari&theme=black-ice&hide_border=true&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mszaffari&langs_count=10&layout=compact&title_color=00FFFF&text_color=FFFFFF&bg_color=000000&hide_border=true" width="50%"/>
+  <a href="https://github.com/Mszaffari"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/Mszaffari0107"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
+  <a href="https://www.linkedin.com/in/meraj-saleheen-zaffari-4a6195258"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://www.threads.net/@mr.zaffari_jr.11"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- PINNED REPO -->
-<h2 align="center">⭐ Featured Project</h2>
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mszaffari&show_icons=true&count_private=true&title_color=00FFFF&text_color=FFFFFF&icon_color=FF6F00&bg_color=0D1117&hide_border=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mszaffari&stroke=FFFFFF&background=0D1117&ring=00FFFF&fire=FF6F00&currStreakNum=FFFFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mszaffari&langs_count=10&title_color=00FFFF&text_color=FFFFFF&icon_color=FF6F00&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages" height="180em"/>
+</p>
+
+---
+
+### 📂 Top Repository  
 
 <p align="center">
   <a href="https://github.com/Mszaffari/Stellar-and-Pulsar-Predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mszaffari&repo=Stellar-and-Pulsar-Predictor&title_color=00FFFF&text_color=FFFFFF&bg_color=000000&icon_color=00FFFF&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mszaffari&repo=Stellar-and-Pulsar-Predictor&title_color=00FFFF&text_color=FFFFFF&icon_color=FF6F00&bg_color=0D1117&hide_border=true"/>
   </a>
 </p>
-
----
-
-<h3 align="center">✨ "Exploring Space with AI, One Star at a Time" ✨</h3>
