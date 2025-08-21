@@ -1,5 +1,3 @@
-<!-- Header wave (spacey) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:0b3b5a,100:0b1437&text=Meraj%20Saleheen%20Zaffari&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=AI%20%26%20ML%20Developer%20%7C%20Footballer%20%7C%20Space%20Explorer&descAlign=50&descAlignY=60" />
 
 <div align="center">
 
