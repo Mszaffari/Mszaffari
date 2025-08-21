@@ -23,11 +23,10 @@
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,java,js,ts,vscode,html,react,bootstrap,fastapi,graphql,flask,mysql,nodejs,mongodb,express,heroku,postgres,figma,gcp,azure,ubuntu,pytorch,django,docker" height="40" style="vertical-align: middle; margin: 3px;" />
-  
-  <!-- Hugging Face icon -->
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40" style="vertical-align: middle; margin: 3px;" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,java,js,ts,vscode,html,react,bootstrap,fastapi,graphql,flask,mysql,nodejs,mongodb,express,heroku,postgres,figma,gcp,azure,ubuntu,pytorch,django,docker,huggingface&perline=12" />
+
 </p>
+
 
 
 
