@@ -4,23 +4,24 @@
   I'm <b>Meraj Saleheen Zaffari</b>  
 </h1>
 
-<h3 align="center">🚀 AI & ML Developer | Space Enthusiast | Data Explorer 🌌</h3>
+<h3 align="center">🚀 AI & ML Developer | ⚽ Footballer | 🌌 Space Explorer</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120px" title="Exploring the Universe with AI"/> 
+  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="120px" title="Football mode activated ⚽"/> 
+  <img src="https://media.giphy.com/media/2wh22HYtB7yQ7u2sKb/giphy.gif" width="120px" title="Spaceship ready for launch 🚀"/>
+</p>
 
 ---
 
 <!-- ABOUT ME -->
-<p align="center">
-  I've been learning <b>Python</b>, <b>AI</b>, and <b>Machine Learning</b> for the last 2 years.<br/>
-  Passionate about space, stars, and pulsars — bringing AI closer to the universe. 🌠
-</p>
-
 <p align="center">
   🌍 Based in <b>India</b> <br/>
   ✉️ Reach me at <a href="mailto:mszaffari17.01@gmail.com">mszaffari17.01@gmail.com</a> <br/>
   🚀 Working on <a href="https://huggingface.co/spaces/Meraj21/stellar-pulsar-classifier" target="_blank">Stellar & Pulsar Detector</a> <br/>
   🧠 Currently learning <b>Advanced Machine Learning</b> <br/>
   👥 Looking to collaborate on <b>Data Science for Interstellar Space</b> <br/>
-  ⚽ Fun fact: I'm secretly a footballer (shhh 🤫)
+  ⚽ Fun fact: I'm secretly a footballer 🤫
 </p>
 
 ---
@@ -29,25 +30,21 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="40" height="40" />
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF" />
+  </a>
+  <a href="https://pytorch.org/" title="PyTorch">
+    <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF6F00" />
+  </a>
+  <a href="https://huggingface.co/" title="Hugging Face">
+    <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=yellow" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
+    <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FFFF" />
+  </a>
+  <a href="https://www.djangoproject.com/" title="Django">
+    <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00FF00" />
+  </a>
 </p>
 
 ---
@@ -56,10 +53,18 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://github.com/Mszaffari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://x.com/Mszaffari0107"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x" /></a>
-  <a href="https://www.threads.net/@mr.zaffari_jr.11"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads" /></a>
-  <a href="https://www.linkedin.com/in/meraj-saleheen-zaffari-4a6195258"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Mszaffari" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/Mszaffari0107" title="Twitter / X">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=00FFFF" />
+  </a>
+  <a href="https://www.linkedin.com/in/meraj-saleheen-zaffari-4a6195258" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00AFFF" />
+  </a>
+  <a href="https://www.threads.net/@mr.zaffari_jr.11" title="Threads">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
 </p>
 
 ---
