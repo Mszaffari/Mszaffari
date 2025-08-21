@@ -5,16 +5,6 @@
 <a href="https://github.com/Mszaffari">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer;Footballer+(Shh%2C+don't+tell+%F0%9F%98%8A);Space+Data+Enthusiast;Building+cool+things+with+Python+%26+PyTorch" alt="Typing SVG" />
 </a>
-
-<!-- Small, reliable animations (rocket + football) -->
-<p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" width="42" height="42" alt="Rocket" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Activities/Soccer%20Ball.png" width="42" height="42" alt="Soccer Ball" />
-</p>
-
----
-
 ### About Me
 
 🌍 Based in **India** • ✉️ Reach me: **mszaffari17.01@gmail.com**  
