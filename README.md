@@ -1,113 +1,108 @@
-<!-- Animated Typing Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Meraj+Saleheen+Zaffari;AI+%26+ML+Developer+🚀;Footballer+⚽;Space+Explorer+🌌" alt="Typing SVG" />
-</h1>
+<!-- Header wave (spacey) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:0b3b5a,100:0b1437&text=Meraj%20Saleheen%20Zaffari&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=AI%20%26%20ML%20Developer%20%7C%20Footballer%20%7C%20Space%20Explorer&descAlign=50&descAlignY=60" />
 
----
+<div align="center">
 
-<!-- Animated GIFs -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjHI8x3JzXZ5dbLW/giphy.gif" width="120px" title="Exploring AI Universe 🚀"/> 
-  <img src="https://media.giphy.com/media/fWg8ZJwG9EoVJ7wSPo/giphy.gif" width="120px" title="Football Mode ⚽"/> 
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="120px" title="Exploring the Cosmos 🌌"/>
+<!-- Typing subtitle -->
+<a href="https://github.com/Mszaffari">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer;Footballer+(Shh%2C+don't+tell+%F0%9F%98%8A);Space+Data+Enthusiast;Building+cool+things+with+Python+%26+PyTorch" alt="Typing SVG" />
+</a>
+
+<!-- Small, reliable animations (rocket + football) -->
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" width="42" height="42" alt="Rocket" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Activities/Soccer%20Ball.png" width="42" height="42" alt="Soccer Ball" />
 </p>
 
 ---
 
-### 🌍 About Me  
+### About Me
 
-- 📍 Based in **India**  
-- 📧 Reach me at: **[mszaffari17.01@gmail.com](mailto:mszaffari17.01@gmail.com)**  
-- 🚀 Working on: [**Stellar & Pulsar Detector**](https://huggingface.co/spaces/Meraj21/stellar-pulsar-classifier)  
-- 🧠 Learning: **Advanced Machine Learning & Space Data Science**  
-- 🤝 Open to collaborate on **AI & Interstellar Space Projects**  
-- ⚽ Fun fact: I’m secretly a **footballer** (don’t tell anyone 😅)  
-
----
-
-### 🛠️ Tech Stack  
+🌍 Based in **India** • ✉️ Reach me: **mszaffari17.01@gmail.com**  
+🚀 Working on: **[Stellar & Pulsar Classifier](https://huggingface.co/spaces/Meraj21/stellar-pulsar-classifier)**  
+🧠 Learning: **Advanced ML & Space Data Science**  
+🤝 Open to: **Interstellar Space Data projects**  
+⚽ Fun fact: **I’m secretly a footballer (don’t tell anyone)**
 
 ---
 
-### 🛠️ Tech Stack  
+### Tech Stack (Badges)
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=007396"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<!-- Shields badges with logos (Hugging Face fixed) -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-  <!-- Tools & Editors -->
-  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=430098"/>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-
-  <!-- Web -->
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
-  <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=E10098"/>
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933"/>
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-
-  <!-- OS & Cloud -->
-  <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
-  <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=008AD7"/>
-  <img src="https://img.shields.io/badge/GoogleCloud-000000?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
-
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-  <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=092E20"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<!-- Optional: compact icons row (matches your screenshot style) -->
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,java,js,ts,vscode,html,react,bootstrap,fastapi,graphql,flask,mysql,nodejs,mongodb,express,heroku,postgres,figma,gcp,azure,ubuntu,pytorch,django,huggingface,docker&perline=12" />
 </p>
 
 ---
 
+### Connect with Me
 
----
-
-### 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://github.com/Mszaffari"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://x.com/Mszaffari0107"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
-  <a href="https://www.linkedin.com/in/meraj-saleheen-zaffari-4a6195258"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-  <a href="https://www.threads.net/@mr.zaffari_jr.11"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
+<p>
+  <a href="mailto:mszaffari17.01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/meraj-saleheen-zaffari-4a6195258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Mszaffari"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/Mszaffari0107"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.threads.net/@mr.zaffari_jr.11"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+  <a href="https://huggingface.co/Meraj21"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mszaffari&show_icons=true&count_private=true&title_color=00FFFF&text_color=FFFFFF&icon_color=FF6F00&bg_color=0D1117&hide_border=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mszaffari&stroke=FFFFFF&background=0D1117&ring=00FFFF&fire=FF6F00&currStreakNum=FFFFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" height="180em"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mszaffari&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00B2FF&icon_color=00B2FF" height="165" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mszaffari&hide_border=true&background=0D1117&ring=00B2FF&fire=00B2FF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="165" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mszaffari&langs_count=10&title_color=00FFFF&text_color=FFFFFF&icon_color=FF6F00&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages" height="180em"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mszaffari&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00B2FF" height="165" alt="top langs" />
 </p>
 
 ---
 
-### 📂 Top Repository  
+### Top Repository
 
-<p align="center">
-  <a href="https://github.com/Mszaffari/Stellar-and-Pulsar-Predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mszaffari&repo=Stellar-and-Pulsar-Predictor&title_color=00FFFF&text_color=FFFFFF&icon_color=FF6F00&bg_color=0D1117&hide_border=true"/>
-  </a>
-</p>
+<a href="https://github.com/Mszaffari/Stellar-and-Pulsar-Predictor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mszaffari&repo=Stellar-and-Pulsar-Predictor&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00B2FF&icon_color=00B2FF" />
+</a>
+
+---
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:0b3b5a,100:0b1437" />
+
+</div>
