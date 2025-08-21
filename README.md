@@ -22,7 +22,12 @@
 
 
 
-![My Skills](https://skillicons.dev/icons?i=python,c,cpp,git,java,js,ts,vscode,html,react,bootstrap,fastapi,graphql,flask,mysql,nodejs,mongodb,express,heroku,postgres,figma,gcp,azure,ubuntu,pytorch,django,huggingface,docker&perline=12)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,java,js,ts,vscode,html,react,bootstrap,fastapi,graphql,flask,mysql,nodejs,mongodb,express,heroku,postgres,figma,gcp,azure,ubuntu,pytorch,django,docker&perline=12" />
+
+  <!-- Hugging Face icon, resized and aligned -->
+  <img src="https://huggingface.co/favicon.ico" height="40" style="vertical-align: middle; margin-left: 5px;" />
+</p>
 
 
 
